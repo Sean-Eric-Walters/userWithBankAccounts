@@ -62,7 +62,7 @@ Major = User('Major', 'Major@section9.gov')
 
 
 
-Batou.make_deposit(4999).make_deposit(4999).make_deposit(1698.58).make_withdrawal(2800).display_user_balance()
+Batou.make_deposit(3999).make_deposit(3999).make_deposit(1698.58).make_withdrawal(2800).display_user_balance()
 
 Togusa.make_deposit(1589.31).make_withdrawal(243.19).make_deposit(1589.31).make_withdrawal(2000).display_user_balance()
 
